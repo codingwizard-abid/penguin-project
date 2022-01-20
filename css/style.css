@@ -82,10 +82,38 @@ body{
 
 
 /* Products */
-#products{
+#products-woman,
+#products-man{
    padding-bottom:100px;
 }
 .products-img{
    background-color: #F1F1F1;
    border-radius: 20px;
+}
+
+/* feature */
+#feature{
+   padding: 100px 0;
+}
+.feature-text h4{
+   font-size: 24px;
+   font-family: 'Roboto', sans-serif;
+   font-weight: 700;
+}
+.feature-text p{
+   color: #3e3e3e;
+}
+
+.feature-img img{
+   width: 100%;
+}
+
+/* footer */
+#footer{
+   padding: 20px 0;
+   background-color: #363958;
+}
+#footer p{
+   color: #fff;
+   line-height: 60px;
 }

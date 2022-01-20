@@ -18,6 +18,9 @@
    .banner-title{
       font-size: 50px;
    }
+   .feature-text h4{
+      font-size: 20px;
+   }
 }
 
 /* applies to x-small devices (portrait phones, less than 576px) */
