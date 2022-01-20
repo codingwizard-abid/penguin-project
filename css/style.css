@@ -42,8 +42,8 @@ body{
    padding-bottom: 100px;
 }
 #header nav {
-   background: url(../images/dots.png) no-repeat;
-   background-position: 38.75rem -.3rem;
+   /* background: url(../images/dots.png) no-repeat; */
+   /* background-position: 38.75rem -.3rem; */
    padding: 3.43rem 0;
 }
 #header .navbar-toggler{
