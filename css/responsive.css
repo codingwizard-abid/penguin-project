@@ -18,6 +18,9 @@
    #header nav {
       padding: 2rem 0 !important;
    }
+   #header .nav-item{
+      margin-left: 10px;
+   }
    .banner-title{
       font-size: 60px;
    }
