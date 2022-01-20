@@ -28,6 +28,14 @@
 
 /* applies to x-small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
-   
+   .navbar-brand{
+      width: 100px !important;
+   }
+   .products-img img{
+      width: 250px;
+   }
+   #feature{
+      padding: 50px 0;
+   }
 }
 
