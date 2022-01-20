@@ -14,7 +14,7 @@ body{
    font-family: 'Roboto', sans-serif;
    font-size: 1rem;
    background-color: #fff;
-   overflow-x: hidden;
+   overflow-x: hidden !important;
 }
 
 /* Overwriiten css */
@@ -42,9 +42,7 @@ body{
    padding-bottom: 100px;
 }
 #header nav {
-   /* background: url(../images/dots.png) no-repeat; */
-   /* background-position: 38.75rem -.3rem; */
-   padding: 3.43rem 0;
+   padding: 3rem 0;
 }
 #header .navbar-toggler{
    box-shadow: none;
