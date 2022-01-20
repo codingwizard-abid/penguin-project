@@ -14,6 +14,7 @@ body{
    font-family: 'Roboto', sans-serif;
    font-size: 1rem;
    background-color: #fff;
+   overflow-x: hidden;
 }
 
 /* Overwriiten css */
@@ -84,6 +85,7 @@ body{
 /* Products */
 #products-woman,
 #products-man{
+   padding-top:40px;
    padding-bottom:100px;
 }
 .products-img{
